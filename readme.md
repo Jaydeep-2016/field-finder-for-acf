@@ -1,7 +1,5 @@
 # Field Finder for ACF
 
-**Contributors:** jaydipmakwana1996
-**Tags:** acf, developer tools, debug, field finder, theme files
 **Requires at least:** 6.3
 **Tested up to:** 6.8
 **Stable tag:** 1.0.0
