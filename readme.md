@@ -1,11 +1,11 @@
 # Field Finder for ACF
 
-**Requires at least:** 6.3
-**Tested up to:** 6.8
-**Stable tag:** 1.0.0
-**Requires PHP:** 7.4
-**License:** GPLv2 or later
-**License URI:** https://www.gnu.org/licenses/gpl-2.0.html
+1. **Requires at least:** 6.3
+2. **Tested up to:** 6.8
+3. **Stable tag:** 1.0.0
+4. **Requires PHP:** 7.4
+5. **License:** GPLv2 or later
+6. **License URL:** https://www.gnu.org/licenses/gpl-2.0.html
 
 A simple developer tool to search for where a specific ACF field is being used in your active theme files.
 
